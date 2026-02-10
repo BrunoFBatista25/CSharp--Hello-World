@@ -1,6 +1,6 @@
 # My First C# Code ☕
 
-This repository contains my first C# / .Net program,
+This repository contains my first C# |.Net program,
 printing the traditional "Hello, World!" message.
 
 ## Objective
