@@ -1,0 +1,14 @@
+C:\Users\lucia\Downloads\C++\C#_File\bin\Debug\net10.0\C#_File.exe
+C:\Users\lucia\Downloads\C++\C#_File\bin\Debug\net10.0\C#_File.deps.json
+C:\Users\lucia\Downloads\C++\C#_File\bin\Debug\net10.0\C#_File.runtimeconfig.json
+C:\Users\lucia\Downloads\C++\C#_File\bin\Debug\net10.0\C#_File.dll
+C:\Users\lucia\Downloads\C++\C#_File\bin\Debug\net10.0\C#_File.pdb
+C:\Users\lucia\Downloads\C++\C#_File\obj\Debug\net10.0\C#_File.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\Downloads\C++\C#_File\obj\Debug\net10.0\C#_File.AssemblyInfoInputs.cache
+C:\Users\lucia\Downloads\C++\C#_File\obj\Debug\net10.0\C#_File.AssemblyInfo.cs
+C:\Users\lucia\Downloads\C++\C#_File\obj\Debug\net10.0\C#_File.csproj.CoreCompileInputs.cache
+C:\Users\lucia\Downloads\C++\C#_File\obj\Debug\net10.0\C#_File.dll
+C:\Users\lucia\Downloads\C++\C#_File\obj\Debug\net10.0\refint\C#_File.dll
+C:\Users\lucia\Downloads\C++\C#_File\obj\Debug\net10.0\C#_File.pdb
+C:\Users\lucia\Downloads\C++\C#_File\obj\Debug\net10.0\C#_File.genruntimeconfig.cache
+C:\Users\lucia\Downloads\C++\C#_File\obj\Debug\net10.0\ref\C#_File.dll
